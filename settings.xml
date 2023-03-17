@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>
+		Portmone
+	</name>
+	<settings>
+		<variable>portmone_login</variable>
+		<name>Логін Інтернет-магазину</name>
+	</settings>
+	<settings>
+		<variable>portmone_password</variable>
+		<name>Пароль Інтернет-магазину</name>
+	</settings>
+	<settings>
+		<variable>portmone_payeeId</variable>
+		<name>Ідентифікатор Інтернет-магазину</name>
+	</settings>
+</module>
